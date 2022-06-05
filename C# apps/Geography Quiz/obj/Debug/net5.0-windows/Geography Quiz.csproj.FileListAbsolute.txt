@@ -1,0 +1,26 @@
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.exe
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.deps.json
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.runtimeconfig.json
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.runtimeconfig.dev.json
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.dll
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\ref\Geography Quiz.dll
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Geography Quiz.pdb
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.csproj.AssemblyReference.cache
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.csproj.GenerateResource.cache
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.AssemblyInfoInputs.cache
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.AssemblyInfo.cs
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.csproj.CoreCompileInputs.cache
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.dll
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\ref\Geography Quiz.dll
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.pdb
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.genruntimeconfig.cache
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography_Quiz.Properties.Resources.resources
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography_Quiz.AuthorizationForm.resources
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography_Quiz.GameForm.resources
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\Npgsql.dll
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography Quiz.csproj.CopyComplete
+D:\prog\Geography Quiz\bin\Debug\net5.0-windows\ru\Geography Quiz.resources.dll
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\Geography_Quiz.GameForm.ru.resources
+D:\prog\Geography Quiz\obj\Debug\net5.0-windows\ru\Geography Quiz.resources.dll
